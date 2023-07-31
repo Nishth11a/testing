@@ -1,0 +1,38 @@
+[33mcommit bfc8beea5c50e514b0abc8bc2349dd614b7cc1c4[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: Nishtha <nishtha.narang@telusinternational.com>
+Date:   Mon Jul 31 22:52:19 2023 +0530
+
+    correct code 5 and 6
+
+[33mcommit 6f5e272b054c0bb8fb5bafbb9fff67d9a0f707dd[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: Nishtha <nishtha.narang@telusinternational.com>
+Date:   Mon Jul 31 22:09:51 2023 +0530
+
+    code5 and 6 added
+
+[33mcommit 5322667aa421842b5f8111f31ee60c9c55066965[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Nishtha <nishtha.narang@telusinternational.com>
+Date:   Mon Jul 31 22:04:48 2023 +0530
+
+    added 3 and4
+
+[33mcommit d57defe1508cb7bd6ffa3a413128225e4d708bbe[m
+Merge: 2bf9d7f c576dcb
+Author: Nishtha111 <114350839+Nishtha111@users.noreply.github.com>
+Date:   Mon Jul 31 18:14:41 2023 +0530
+
+    Merge pull request #1 from Nishth11a/dev
+    
+    Code1 and 2 added
+
+[33mcommit c576dcb65fe2ebf5bf55880105b557586fec22c1[m
+Author: Nishtha <nishtha.narang@telusinternational.com>
+Date:   Mon Jul 31 18:05:27 2023 +0530
+
+    Code1 and 2 added
+
+[33mcommit 2bf9d7fcdb3bcf37db039e76411d0dfd3a3531b0[m
+Author: Nishtha111 <114350839+Nishtha111@users.noreply.github.com>
+Date:   Mon Jul 31 17:58:08 2023 +0530
+
+    Create Project1
